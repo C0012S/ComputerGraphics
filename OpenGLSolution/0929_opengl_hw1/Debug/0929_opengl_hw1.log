@@ -1,0 +1,3 @@
+﻿  0929_hw1_main.cpp
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\0929_opengl_hw1\0929_hw1_main.cpp(73,36): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  0929_opengl_hw1.vcxproj -> C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\Debug\0929_opengl_hw1.exe

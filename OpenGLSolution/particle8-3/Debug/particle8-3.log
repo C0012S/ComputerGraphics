@@ -1,0 +1,12 @@
+﻿  fog.cpp
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(27,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(30,25): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(30,43): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(30,61): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(33,26): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(33,45): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(33,64): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(35,56): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(41,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-3\fog.cpp(46,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  particle8-3.vcxproj -> C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\Debug\particle8-3.exe

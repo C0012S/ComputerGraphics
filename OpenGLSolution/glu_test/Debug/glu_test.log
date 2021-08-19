@@ -1,0 +1,4 @@
+﻿  glu_main.cpp
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\glu_test\glu_main.cpp(8,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\glu_test\glu_main.cpp(12,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  glu_test.vcxproj -> C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\Debug\glu_test.exe

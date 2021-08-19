@@ -1,0 +1,6 @@
+﻿  6snow.cpp
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-7\6snow.cpp(102,30): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-7\6snow.cpp(103,34): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-7\6snow.cpp(104,21): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\particle8-7\6snow.cpp(209,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  particle8-7.vcxproj -> C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\Debug\particle8-7.exe

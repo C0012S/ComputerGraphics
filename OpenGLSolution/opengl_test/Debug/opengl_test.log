@@ -1,0 +1,5 @@
+﻿  opengl_main.cpp
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\opengl_test\opengl_main.cpp(24,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\opengl_test\opengl_main.cpp(26,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\opengl_test\opengl_main.cpp(27,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  opengl_test.vcxproj -> C:\Duksung\3 학년 2 학기\컴퓨터그래픽스\source\OpenGLSolution\Debug\opengl_test.exe
